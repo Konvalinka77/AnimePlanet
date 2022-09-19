@@ -1,0 +1,137 @@
+.Body {
+  background-image: url(https://78.media.tumblr.com/1358b1a9f2e447151501c26f43d82b1b/tumblr_oqry6sYtkH1u7gnm9o1_500.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #000000;
+}
+
+.TopBar {
+  height: 100%;
+  position: flex;
+}
+
+.TopBarMenu {
+  padding: 30px;
+  margin: 2px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.TopBarMenuText {
+  color: white;
+}
+
+.TopBar:hover {
+  color: black;
+}
+
+.Menu {
+  font-size: 20px;
+  text-align: center;
+  padding: 5px 10px;
+  position: absolute;
+}
+
+
+
+/* Naruto */
+.TopbarlinkN {
+  margin: 1%;
+  position: flex;
+}
+
+.TopbarlinkN:hover {}
+
+.N {
+  background-color: White;
+  width: 50px;
+  height: 100px;
+}
+
+
+
+/* One piece */
+.TopbarlinkO {
+  margin: 1%;
+  position: flex;
+}
+
+.TopbarlinkO:hover {
+  color: Yellow;
+}
+
+.O {
+  background-color: White;
+  width: 50px;
+  height: 100px;
+}
+
+
+
+/* Demon Slayer */
+.TopbarlinkD {
+  margin: 1%;
+  position: flex;
+}
+
+.TopbarlinkD:hover {
+  color: #38a87c;
+}
+
+.D {
+  background-color: White;
+  width: 50px;
+  height: 100px;
+}
+
+
+
+/* Bleach */
+.TopbarlinkB {
+  margin: 1%;
+  position: flex;
+}
+
+.TopbarlinkB:hover {
+  color: Red;
+}
+
+.B {
+  background-color: White;
+  width: 50px;
+  height: 100px;
+}
+
+
+
+/* Hunter X Hunter */
+.TopbarlinkH {
+  margin: 1%;
+  position: flex;
+}
+
+.TopbarlinkH:hover {
+  color: #15a700;
+}
+
+.H {
+  background-color: White;
+  width: 50px;
+  height: 100px;
+}
+
+
+
+.Topbarlink:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.Main {
+  float: right;
+}
+
+.Main-Text {
+  text-align: center;
+  font-size: 40px;
+}

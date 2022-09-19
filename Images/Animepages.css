@@ -1,0 +1,283 @@
+/* Naruto page */
+.NBody {
+  background-color: #ffa500;
+}
+
+.NTopBar {
+  height: 100%;
+  position: flex;
+  background-color: black;
+}
+
+.NTopBarMenu {
+  padding: 10px;
+  margin: 2px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.NTopBar:hover {
+  color: black;
+}
+
+.NMenu {
+  font-size: 20px;
+  text-align: center;
+  padding: 5px 10px;
+  background-color: #ffa500;
+}
+
+.NTopbarlink {
+  margin: 1%;
+  position: flex;
+}
+
+.NTopbarlink:hover {
+  background-color: Black;
+  text-decoration: none;
+  color: Orange;
+}
+
+.NMain {
+  text-align: center;
+}
+
+.NMain-Text {
+  text-align: center;
+  font-size: 40px;
+  color: white;
+  background-image: url(https://th.bing.com/th/id/R.174d6640deac0ecf5a6efc8e3708998b?rik=8Ofc2b%2bskjt1wg&riu=http%3a%2f%2f37.media.tumblr.com%2f835746781b0417729b101dd47a796f04%2ftumblr_mokd38Bx2W1s0ha57o1_500.gif&ehk=idM%2fLHDq%2fPIlldI057TmVK3nGiERafSP9PAyjLo%2boXs%3d&risl=&pid=ImgRaw&r=0);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+/* Bleach page */
+.BBody {
+  background-image:
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-color: red;
+}
+
+.BTopBar {
+  height: 100%;
+  position: flex;
+  background-color: White;
+}
+
+.BTopBarMenu {
+  padding: 10px;
+  margin: 2px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.BTopBar:hover {
+  color: White;
+}
+
+.BMenu {
+  font-size: 20px;
+  text-align: center;
+  padding: 5px 10px;
+  background-color: Red;
+}
+
+.BTopbarlink {
+  margin: 1%;
+  position: flex;
+}
+
+.BTopbarlink:hover {
+  background-color: White;
+  text-decoration: none;
+  color: Red;
+}
+
+.BMain {
+  text-align: center;
+}
+
+.BMain-Text {
+  text-align: center;
+  font-size: 40px;
+  color: blue;
+  background-image: url(https://www.bing.com/th/id/OGC.5bf527d71ef6a21494daa31d5323cadd?pid=1.7&rurl=https%3a%2f%2fgiffiles.alphacoders.com%2f133%2f13321.gif&ehk=HcGNXRy7wKdAt46mXNfP7MEWszRkFq0GmpxP1Ib9iw0%3d);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+/* Demon Slayer Page */
+.DBody {
+  background-image:
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #38a87c;
+}
+
+.DTopBar {
+  height: 100%;
+  position: flex;
+  background-color: black;
+}
+
+.DTopBarMenu {
+  padding: 10px;
+  margin: 2px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.DTopBar:hover {
+  color: black;
+}
+
+.DMenu {
+  font-size: 20px;
+  text-align: center;
+  padding: 5px 10px;
+  background-color: #38a87c;
+}
+
+.DTopbarlink {
+  margin: 1%;
+  position: flex;
+}
+
+.DTopbarlink:hover {
+  background-color: Black;
+  text-decoration: none;
+  color: #38a87c;
+}
+
+.DMain {
+  text-align: center;
+}
+
+.DMain-Text {
+  text-align: center;
+  font-size: 40px;
+  color: white;
+  background-image: url(https://66.media.tumblr.com/6765ea9ef9870a062d3084026188b7cb/tumblr_pqbpxx39Pz1xvwkewo1_500.gifv);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+/* Hunter X Hunter Page */
+.HBody {
+  background-image background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #15a700;
+}
+
+.HTopBar {
+  height: 100%;
+  position: flex;
+  background-color: #d5001d;
+}
+
+.HTopBarMenu {
+  padding: 10px;
+  margin: 2px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.HTopBar:hover {
+  color: black;
+}
+
+.HMenu {
+  font-size: 20px;
+  text-align: center;
+  padding: 5px 10px;
+  background-color: #15a700;
+}
+
+.HTopbarlink {
+  margin: 1%;
+  position: flex;
+}
+
+.HTopbarlink:hover {
+  background-color: #d5001d;
+  text-decoration: none;
+  color: #15a700;
+}
+
+.HMain {
+  text-align: center;
+}
+
+.HMain-Text {
+  text-align: center;
+  font-size: 40px;
+  color: Green;
+  background-image: url(https://th.bing.com/th/id/R.f7f3ce5a9aab19274d0ea7b1c1108eb4?rik=MTvX6rubw5FFsg&riu=http%3a%2f%2f68.media.tumblr.com%2f0f6bab8cd6489527f41e69ad402945ee%2ftumblr_obk519vDNY1us5zbco1_540.gif&ehk=980Oypi2ZOVj39w9g89D0VI4JSUUIzU1P%2bNQEko3k%2b0%3d&risl=&pid=ImgRaw&r=0);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+/* One Piece Page */
+.OBody {
+  background-image:
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #ffff00;
+}
+
+.OTopBar {
+  height: 100%;
+  position: flex;
+  background-color: Red;
+}
+
+.OTopBarMenu {
+  padding: 10px;
+  margin: 2px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.OTopBar:hover {
+  color: Red;
+}
+
+.OMenu {
+  font-size: 20px;
+  text-align: center;
+  padding: 5px 10px;
+  background-color: Yellow;
+}
+
+.OTopbarlink {
+  margin: 1%;
+  position: flex;
+}
+
+.OTopbarlink:hover {
+  background-color: Red;
+  text-decoration: none;
+  color: Yellow;
+}
+
+.OMain {
+  text-align: center;
+}
+
+.OMain-Text {
+  text-align: center;
+  font-size: 40px;
+  color: white;
+  background-image: url(https://66.media.tumblr.com/ca85f2aacde9ff7c09adef3d94946f7c/tumblr_pu9sekwKh61whewpbo2_540.gifv);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
